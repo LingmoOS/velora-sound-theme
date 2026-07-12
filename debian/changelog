@@ -1,3 +1,9 @@
+deepin-sound-theme (15.10.3.lingmo.1) unstable; urgency=low
+
+  * Lingmo namespace migration.
+
+ -- shuttle <shuttle@deepin.com>  Sun, 12 Jul 2026 23:11:19 +0800
+
 deepin-sound-theme (15.10.2) unstable; urgency=low
 
   * Auto Version update.
